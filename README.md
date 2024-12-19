@@ -7,7 +7,7 @@ Opção 2  - Website Attack Vectors
 Opção 3 - Credential Browser Explot Method
 Opção 2 - Site Cloner
 
-Neste momento devsmos informar o ip da nossa maquina atacante apara que a maquina alvo possa acessar, para saber qual ip estamos usando podemos usar o comando "ifconfig"
+Neste momento devemos informar o ip da nossa maquina atacante, para que a maquina alvo possa acessar, para saber qual ip estamos usando podemos usar o comando "ifconfig"
 Em seguida informados o site que queremos clonar, neste exemplo usamos o "http://www.facebook.com"
 Após isso, ao acessar o ip seremos direcionados para uma página de login clone do Facebook, onde ao inserir as credencais como email e senha, serao capturadas pelo setoolkit
 
