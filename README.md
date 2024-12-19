@@ -1,5 +1,5 @@
-# desafio-phishing-dio
-desafio de phishing do bootcamp de cibersegurança da Dio/Santander
+# Desafio de phishing do bootcamp de cibersegurança da Dio/Santander
+Demonstrando a ação de um ataque de phishing
 
 Usando o Klai Linux, iniciamos a ferramenta setoolkit em modo root (sudo su) e seguimos a seguinte ordem
 
