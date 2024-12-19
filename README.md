@@ -1,7 +1,7 @@
 # Desafio de phishing do bootcamp de cibersegurança da Dio/Santander
 Demonstrando a ação de um ataque de phishing
 
-Usando o Klai Linux, iniciamos a ferramenta setoolkit em modo root (sudo su) e seguimos a seguinte ordem
+Usando o Kali Linux, iniciamos a ferramenta setoolkit em modo root (sudo su) e seguimos a seguinte ordem
 
 Opção 2  - Website Attack Vectors
 Opção 3 - Credential Browser Explot Method
